@@ -1,0 +1,56 @@
+{
+    "currentVersionInfo": {
+        "version": "1.5.20",
+        "hasShownChangelog": true
+    },
+    "image": {
+        "medias": []
+    },
+    "settings": {
+        "hideUnsortedMedias": true,
+        "hideThumbnail": false,
+        "showContextMenuFavorite": false,
+        "forceShowFavoritesGIFs": false,
+        "mediaVolume": 25.218911735907117,
+        "btnsPosition": "right",
+        "image": {
+            "enabled": true,
+            "showBtn": false
+        },
+        "video": {
+            "enabled": true,
+            "showBtn": false
+        },
+        "audio": {
+            "enabled": true,
+            "showBtn": false
+        }
+    },
+    "video": {
+        "medias": [
+            {
+                "url": "https://cdn.discordapp.com/attachments/961886490370113546/990170824877154304/IKEA_P-47.mp4",
+                "poster": "https://media.discordapp.net/attachments/961886490370113546/990170824877154304/IKEA_P-47.mp4?format=jpeg",
+                "width": 300,
+                "height": 300,
+                "name": "IKEA_P-47"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/790802778913112116/996670074536595466/crab.mp4",
+                "poster": "https://media.discordapp.net/attachments/790802778913112116/996670074536595466/crab.mp4?format=jpeg&width=240&height=240",
+                "width": 300,
+                "height": 300,
+                "name": "crab"
+            }
+        ]
+    },
+    "audio": {
+        "medias": [
+            {
+                "url": "https://cdn.discordapp.com/attachments/790802778913112116/996670270016323734/your_life_matters.mp3",
+                "name": "your_life_matters",
+                "ext": ".mp3"
+            }
+        ]
+    }
+}

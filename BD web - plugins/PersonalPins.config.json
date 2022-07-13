@@ -1,0 +1,9 @@
+{
+	"all": {
+		"choices": {
+			"defaultFilter": "server",
+			"defaultOrder": "ascending",
+			"defaultSort": "messagetime"
+		}
+	}
+}

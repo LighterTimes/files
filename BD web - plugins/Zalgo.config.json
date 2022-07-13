@@ -1,0 +1,15 @@
+{
+    "currentVersionInfo": {
+        "version": "0.5.0",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "corruptionAmount": 1,
+        "rampEnd": 0.7,
+        "corruptUp": false,
+        "corruptMid": true,
+        "corruptDown": false,
+        "startCharacters": ";",
+        "endCharacters": ";"
+    }
+}
